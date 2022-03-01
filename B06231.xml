@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true effigies of the German giant, now to be seen at the Swan near Charing-Cross, whose stature is nine foot and a half in height, and the span of his hand a cubit compleat. He goes from place to place with his wife, who is but of an ordinary stature, and takes money for the show of her husband.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06231</idno>
+            <idno type="STC">Wing T2692</idno>
+            <idno type="STC">ESTC R185643</idno>
+            <idno type="EEBO-CITATION">52529334</idno>
+            <idno type="OCLC">ocm 52529334</idno>
+            <idno type="VID">179152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179152)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2778:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true effigies of the German giant, now to be seen at the Swan near Charing-Cross, whose stature is nine foot and a half in height, and the span of his hand a cubit compleat. He goes from place to place with his wife, who is but of an ordinary stature, and takes money for the show of her husband.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">London : Printed for Matthew Collins at the Three Black Birds in Cannon-street,</name>
+                     <date>1660.</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Giants --  Germany --  Poetry.</term>
+               <term>Freak shows --  England --  17th century --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:179152:1"/>
+            <!-- PDF PAGE 6 -->
+            <head>The true Effigies of the German Giant, now To be ſeen at the <hi>Swan</hi> near <hi>Charing-Croſs,</hi> whoſe Stature is Nine foot and a half in height, and the Span of his Hand a Cubit compleat. He goes from place to place with his VVife, who is but of an ordinary Stature, and takes Money for the Show of her Husband.</head>
+            <p>
+               <figure>
+                  <figDesc>depiction of a German Giant</figDesc>
+               </figure>
+            </p>
+            <l>IT from Tradition hath of old been ſe'd,</l>
+            <l>This Iſle by Gyants was inhabited,</l>
+            <l>Who with an Oak in hand would walk as free,</l>
+            <l>As once <note n="*" place="margin">Et tene<g ref="char:EOLhyphen"/>ram ab ra<g ref="char:EOLhyphen"/>dice ferens ſilvane cu<g ref="char:EOLhyphen"/>preſſum. <hi>Virg. Geor. 1.</hi>
+               </note> 
+               <hi>Silvanus</hi> with a Cypreſs Tree;</l>
+            <l>And hence 'tis like, that firſt of all 'twas ſpoke,</l>
+            <l>This hardy Nation had their hearts of Oak:</l>
+            <l>Arms lent by Nature, and throughout the Land,</l>
+            <l>The Oak complying with the Gyants hand;</l>
+            <l>Fit for their hand, and not without deſert,</l>
+            <l>The Oak complying with the Gyants heart;</l>
+            <l>Yet though this Iſland better fenced ſtood</l>
+            <l>With walls of Oak, than Gyantean blood,</l>
+            <l>With walls, whoſe tops and bottoms do diſdain</l>
+            <l>All oppoſition from the Roaring Main,</l>
+            <l>Yet it muſt not in honor be deny'd</l>
+            <l>
+               <note place="margin">Virg. Eneid. 1.</note> That Gyants firſt did in this Iſle reſide;</l>
+            <l>Aetnean Brothers whoſe bold Heads aloft,</l>
+            <l>The tops of Hills, and Clouds beneath them ſcoft;</l>
+            <l>Such by the Labells both of Fame and Fate,</l>
+            <l>Was by the dread Hand of mighty <hi>Askepate;</hi>
+            </l>
+            <l>Who neer <hi>Southampton,</hi> a full mile, had ſtrength</l>
+            <l>To throw a Mill-ſtone on his foot at length:</l>
+            <l>So vaſt a Stone, upon his foot below,</l>
+            <l>Seem'd but a Corn upon the Gyants toe.</l>
+            <l>The place to this day to be ſeen, doth tell</l>
+            <l>Where this was done, and where the Mill-ſtone fell;</l>
+            <l>And ſuch ſtout <hi>Coronaeus</hi> was, from whom</l>
+            <l>
+               <hi>Cornwals</hi> firſt Honor, and her Name doth come:</l>
+            <l>For though he ſheweth not ſo great, nor tall.</l>
+            <l>In his Dimentions ſet forth at Guild-Hall,</l>
+            <l>Know 'tis a Poet onely can define</l>
+            <l>A Gyants poſture in a Gyants line,</l>
+            <l>The Art falls ſhort of Nature, and muſt err,</l>
+            <l>When Rules are given her by the Carpenter,</l>
+            <l>Who ought not Bulks uncircumſcrib'd to draw</l>
+            <l>By the ſmall Compaſs of his own ſcant Law;</l>
+            <l>And thus attended with his direful Dog,</l>
+            <l>The Gyant was (God bleſs us) <hi>Gogmagog.</hi>
+            </l>
+            <l>And He who (fear'd by his prodigious Frame)</l>
+            <l>Not long ſince kept the gates of <hi>Nottingham;</hi>
+            </l>
+            <l>And many others who have left to all</l>
+            <l>Succeeding times their proud Memorial.</l>
+            <l>And though that Nature now more ſpent and old,</l>
+            <l>Doth in ſuch off ſprings grow more weak and cold,</l>
+            <l>Yet ſome Remainders to this day are ſeen,</l>
+            <l>Of what we finde ſhe heretofore hath been:</l>
+            <l>Witneſs this Gyant who not long ago</l>
+            <l>Was ſeen in <hi>Ipſwich</hi> at a publick Show,</l>
+            <l>And though no Native, yet his Birth muſt be</l>
+            <l>Fam'd, as his Countrey is of <hi>Germany:</hi>
+            </l>
+            <l>Poor <hi>Germany</hi> who now the Turks do raunt,</l>
+            <l>Many more Gyants like himſelf doth want.</l>
+            <l>To ſee him hundreds day by day do throng</l>
+            <l>As he from place to place doth paſs along,</l>
+            <l>His Bode's uncertain, for to think 'tis vain</l>
+            <l>One place ſo tall a Wonder to contain;</l>
+            <l>His whole proportion is upright, and ſtreight,</l>
+            <l>'Tis nine foot fully, and a half in height:</l>
+            <l>Not much in debt to Age, his Body clean,</l>
+            <l>Up to his Stature, and not fat, nor lean;</l>
+            <l>His Hand exceeds in bigneſs, and his Span</l>
+            <l>'Bove twice th'extenſions of another man.</l>
+            <l>He no exceſs of any Wine doth pour</l>
+            <l>Into his Gorge, nor doth he much devour:</l>
+            <l>And though his Stature be admir'd, yet he</l>
+            <l>Doth ſeem much pleas'd with Mediocritie:</l>
+            <l>But that which makes the wonder ſeem more rife,</l>
+            <l>This ſo great Gyant hath a little Wife;</l>
+            <l>By whoſe Advice he's carryed up and down</l>
+            <l>From Court to Countrey, and from Town to Town,</l>
+            <l>He is her Gain, where ever he doth go,</l>
+            <l>Tis ſhe receives the Money for the Show,</l>
+            <l>A Woman lovely, and in all compleat;</l>
+            <l>And though but little, yet her wit is great:</l>
+            <l>Thus heretofore true Love with Love did dy</l>
+            <l>The faithful <hi>Phillis,</hi> and the good Sir <hi>Guy:</hi>
+            </l>
+            <l>But that a Gyant, one ſo tall in ſhow,</l>
+            <l>Should chooſe a Wife, and live with one ſo low,</l>
+            <l>Is more than ever any Age yet knew;</l>
+            <l>And haply more than Age again ſhall view.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Matthew Collins</hi> at the Three Black Birds in <hi>Cannon-ſtreet.</hi> 1668.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
